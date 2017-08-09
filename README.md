@@ -1,5 +1,5 @@
 # ProjectPeru
-An epic and atmospheric 3D adventure game.
+An epic and atmospheric 3D adventure game made with Unreal Engine 4.
 
 
 TO-DO LIST:
